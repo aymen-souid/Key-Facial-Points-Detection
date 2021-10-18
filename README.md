@@ -13,3 +13,5 @@ The dataset consists of x and y coordinates of 15 facial key points.
 Input images are 96*96 pixels.
 
 Images consist of only one color channel (gray-scale imagrs)
+
+![Screenshot](image.png)
