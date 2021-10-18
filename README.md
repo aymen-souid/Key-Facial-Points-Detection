@@ -14,4 +14,6 @@ Input images are 96*96 pixels.
 
 Images consist of only one color channel (gray-scale imagrs)
 
+# Result
+
 ![Screenshot](image.png)
